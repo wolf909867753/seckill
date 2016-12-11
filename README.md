@@ -2,7 +2,7 @@
 秒杀
 
 秒杀项目: 
-  1:架构:Spring3.2.0 + MyBaits3.2.7 + BootStarp3.3.0 +jQuery2.0 + MySql5.1.8 + redis 2.6.2
+  1:架构:Spring3.2.0 + SpringMVC + MyBaits3.2.7 + BootStarp3.3.0 +jQuery2.0 + MySql5.1.8 + redis 2.6.2
   2:开发环境web容器为:Tomcat7 
   3:项目优点: 
     3-1:使用存储过程,减少事务行级锁的持有时间 
